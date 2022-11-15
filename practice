@@ -1,4 +1,4 @@
 git clone <url>
 git add . -to stage all the changes
-git init
+ Practice- Abhishekgit init
 rm -rf .git
