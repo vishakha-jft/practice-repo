@@ -1,0 +1,2 @@
+git clone <url>
+git add . -to stage all the changes
